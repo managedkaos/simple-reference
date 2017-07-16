@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Continuous_integration
+https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software
+https://www.slant.co/topics/799/~best-continuous-integration-tools
+https://dzone.com/articles/top-8-continuous-integration-tools
+https://stackify.com/top-continuous-integration-tools/
+https://www.g2crowd.com/categories/continuous-integration
