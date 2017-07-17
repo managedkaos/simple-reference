@@ -1,6 +1,12 @@
 # Simple Reference Maker
 A python script to create a simple reference for each URL given as input
 
+```
+pip install -r requirements.txt
+python mkref.py http://link-to-an-article.com
+python mkref.pt $(cat file-with-multiple-links.txt)
+```
+
 ## MLA7 Format
 Last, First M. "Article Title." Website Title. Website Publisher, Date Month Year Published. Web. Date Month Year Accessed.
 
